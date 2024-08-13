@@ -7,5 +7,7 @@ Install colima: https://github.com/abiosoft/colima
 # Usage
 Just write `colima` and press `<enter>` to start or stop.
 
+![Usage](img/usage.png)
+
 # TODOs:
 - Check result of toggling colima and send the correct text as notification. Currently it says "started|stopped" regardless of command output
